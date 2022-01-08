@@ -1,7 +1,8 @@
 # DotSlash-5.0
-This is for competition purpose only
+This is for competition purpose!!!
 
 Topic : Management of vehicles in large parking areas.
+
   This project will ask for vehicle number of the owner when they come to any public parking slot.
   Then the program will give them a unique code and this all info will be saved in database.
   then at the time the owner comes to recieve their vehicle to program asks them their vehicle no. 
